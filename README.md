@@ -1,2 +1,2 @@
-# codologia
+# Codologia
 Classwork, homework,
